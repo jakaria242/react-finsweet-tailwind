@@ -13,7 +13,7 @@ const Relevant = () => {
     <section className='py-32'>
         <div className='max-w-container mx-auto'>
             <div className='font-robotoCondance uppercase text-center text-subHeadingColor'>
-                <SubHeading className='text-base font-norma' text='sub-headline'/>
+                <SubHeading className='text-base font-normal' text='sub-headline'/>
                 <SecHeading className='text-5xl	font-bold   leading-SecHLineHight    mt-4' text="a church that's relevant"/>
             </div>
             <div className='pt-16 flex gap-[25px] flex-wrap items-center'>
