@@ -12,6 +12,7 @@ export default {
         btnTxtColor: '#1C1D28',
         subHeadingColor: '#161722',
         relevantColor: '#FFF5EB',
+        watchBg: '#F5F2F0'
       },
       maxWidth: {
         'container': '1280px',
@@ -21,6 +22,7 @@ export default {
       },
       backgroundImage: {
         'homeBanner': "url('assets/images/homeBanner.jpg')",
+        overly: 'linear-gradient(357deg, #060606 16.68%, rgba(0,0,0,0.02) 96.44%);'
       },
       fontSize: {
         bannerHeading: '64px',
