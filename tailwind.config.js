@@ -23,6 +23,7 @@ export default {
       backgroundImage: {
         'homeBanner': "url('assets/images/homeBanner.jpg')",
         overly: 'linear-gradient(357deg, #060606 16.68%, rgba(0,0,0,0.02) 96.44%);',
+        visitimg: "url('assets/images/visit.jpg')"
       },
       fontSize: {
         bannerHeading: '64px',

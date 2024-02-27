@@ -4,6 +4,7 @@ import Relevant from './section/Relevant'
 import Love from './section/Love'
 import Watch from './section/Watch'
 import Upcaming from './section/Upcaming'
+import Visit from './section/Visit'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
     <Love/>
     <Watch/>
     <Upcaming/>
+    <Visit/>
     </>
   )
 }
