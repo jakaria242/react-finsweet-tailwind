@@ -5,6 +5,7 @@ import Love from './section/Love'
 import Watch from './section/Watch'
 import Upcaming from './section/Upcaming'
 import Visit from './section/Visit'
+import Blog from './section/Blog'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
     <Watch/>
     <Upcaming/>
     <Visit/>
+    <Blog/>
     </>
   )
 }
